@@ -1,0 +1,4 @@
+#Django Version == 3.0
+#superuser username= ramen
+#email= ramen@gmail.com
+#password= 1234
